@@ -1,0 +1,50 @@
+
+**********MAIN MENU*********
+0.Exit
+1.Manager
+2.Caption
+3.Chef
+4.Receptionist
+Enter YOur Choice: 4
+
+*****Receptionist Menu*****
+0.Exit
+1.Register Customer
+2.Restaurant Billing
+3.Room Booking(Check-In)
+4.Room Biing(Check-Out)
+Enter Your Choice: 3
+
+3.Room BOoking(Check-In)
+Room No		Suit Name		Charge		Status
+----------------------------------------------------------------
+
+1		Ashoka		2000		AVAILABLE
+2		Taj		2500		AVAILABLE
+Enter Room No: 1
+
+Enter Name Of Person: Avadhut
+
+Enter Cell No: 9657265577
+
+Enter Address: Pune
+
+Enter Date(Check-In): 12 06 2017
+
+Enter Room Status[AVAILABLE(0)/BOOKED(1)]: 1
+
+*****Receptionist Menu*****
+0.Exit
+1.Register Customer
+2.Restaurant Billing
+3.Room Booking(Check-In)
+4.Room Biing(Check-Out)
+Enter Your Choice: 0
+
+**********MAIN MENU*********
+0.Exit
+1.Manager
+2.Caption
+3.Chef
+4.Receptionist
+Enter YOur Choice: 0

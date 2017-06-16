@@ -1,0 +1,78 @@
+
+**********MAIN MENU*********
+0.Exit
+1.Manager
+2.Caption
+3.Chef
+4.Receptionist
+Enter YOur Choice: 1
+
+*****Manager Menu******
+0.Exit
+1.Manage Food Menu
+2.Manage Room Charges
+3.Manage Billing
+4.Review All Order Status
+Enter Your Choice: 3
+
+*****Manage Billing*****
+0.Exit
+1.View Bills Of Given Date Range
+2.View Todays Bills
+Enter Your Choice: 1
+
+Enter Starting Date: 01 06 2017
+
+Enter End Date: 15 06 2017
+
+-------------------------------------------------------------
+                 Bills Of Given Date Range                   
+-------------------------------------------------------------
+Date	Room No/Table No	Customer Name	Today Bill
+
+-------------------------------------------------------------
+15/6/2017		1		Avadhut	540
+15/6/2017		2		xyz	1080
+*****Manage Billing*****
+0.Exit
+1.View Bills Of Given Date Range
+2.View Todays Bills
+Enter Your Choice: 1
+
+Enter Starting Date: 16 06 2017
+
+Enter End Date: 28 06 1997
+
+--**There Are No Bills Of Given Date Range**--
+*****Manage Billing*****
+0.Exit
+1.View Bills Of Given Date Range
+2.View Todays Bills
+Enter Your Choice: 1
+
+Enter Starting Date: 01 06 2017
+
+Enter End Date: 14 06 2017
+
+--**There Are No Bills Of Given Date Range**--
+*****Manage Billing*****
+0.Exit
+1.View Bills Of Given Date Range
+2.View Todays Bills
+Enter Your Choice: 0
+
+*****Manager Menu******
+0.Exit
+1.Manage Food Menu
+2.Manage Room Charges
+3.Manage Billing
+4.Review All Order Status
+Enter Your Choice: 0
+
+**********MAIN MENU*********
+0.Exit
+1.Manager
+2.Caption
+3.Chef
+4.Receptionist
+Enter YOur Choice: 0

@@ -1,0 +1,74 @@
+**********MAIN MENU*********
+0.Exit
+1.Manager
+2.Caption
+3.Chef
+4.Receptionist
+Enter YOur Choice: 1
+
+*****Manager Menu******
+0.Exit
+1.Manage Food Menu
+2.Manage Room Charges
+3.Manage Billing
+4.Review All Order Status
+Enter Your Choice: 2
+
+*****Manage Rooom Charges*****
+0.Exit
+1.Edit Room Charges(Create)
+2.View Room Charges
+Enter Your Choice: 1
+
+--**Enter Room Details**--
+Enter Room No: 1
+
+Enter Room Desc(Name): Ashoka
+
+Enter Room Charge: 2000
+
+*****Manage Rooom Charges*****
+0.Exit
+1.Edit Room Charges(Create)
+2.View Room Charges
+Enter Your Choice: 1
+
+--**Enter Room Details**--
+Enter Room No: 2
+
+Enter Room Desc(Name): Taj
+
+Enter Room Charge: 2500
+
+*****Manage Rooom Charges*****
+0.Exit
+1.Edit Room Charges(Create)
+2.View Room Charges
+Enter Your Choice: 2
+
+Room No		Suit Name		Charge		Status
+----------------------------------------------------------------
+
+1		Ashoka		2000		AVAILABLE
+2		Taj		2500		AVAILABLE
+*****Manage Rooom Charges*****
+0.Exit
+1.Edit Room Charges(Create)
+2.View Room Charges
+Enter Your Choice: 0
+
+*****Manager Menu******
+0.Exit
+1.Manage Food Menu
+2.Manage Room Charges
+3.Manage Billing
+4.Review All Order Status
+Enter Your Choice: 0
+
+**********MAIN MENU*********
+0.Exit
+1.Manager
+2.Caption
+3.Chef
+4.Receptionist
+Enter YOur Choice: 0

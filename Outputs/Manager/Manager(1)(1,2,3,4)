@@ -1,0 +1,155 @@
+
+**********MAIN MENU*********
+0.Exit
+1.Manager
+2.Caption
+3.Chef
+4.Receptionist
+Enter YOur Choice: 1
+
+*****Manager Menu******
+0.Exit
+1.Manage Food Menu
+2.Manage Room Charges
+3.Manage Billing
+4.Review All Order Status
+Enter Your Choice: 1
+
+*****Manage Food Menu*****
+0.Exit
+1.Add Menu Item
+2.View Menu Item
+3.Edit Menu Item
+4.Delete Menu Item
+Enter Your Choice: 1
+
+File Created Successfully
+Enter Item ID: 1
+
+Enter Item Name: Coffee
+
+Enter Item Price: 50
+
+*****Manage Food Menu*****
+0.Exit
+1.Add Menu Item
+2.View Menu Item
+3.Edit Menu Item
+4.Delete Menu Item
+Enter Your Choice: 1
+
+File Created Successfully
+Enter Item ID: 2
+
+Enter Item Name: Pizza
+
+Enter Item Price: 200
+
+*****Manage Food Menu*****
+0.Exit
+1.Add Menu Item
+2.View Menu Item
+3.Edit Menu Item
+4.Delete Menu Item
+Enter Your Choice: 2
+
+Item Id	Item Name		Price
+----------------------------------------------------------
+
+1	Coffee		50	
+2	Pizza		200	
+-------------------------------------------------------
+*****Manage Food Menu*****
+0.Exit
+1.Add Menu Item
+2.View Menu Item
+3.Edit Menu Item
+4.Delete Menu Item
+Enter Your Choice: 3
+
+Item Id	Item Name		Price
+----------------------------------------------------------
+
+1	Coffee		50	
+2	Pizza		200	
+-------------------------------------------------------
+Enter Item Id You Want To Edit: 1
+
+--** Enter New Details For Item **--
+Enter Item Id: 1
+
+Enter Item Name: Coffee
+
+Enter Item Price: 70
+
+*****Manage Food Menu*****
+0.Exit
+1.Add Menu Item
+2.View Menu Item
+3.Edit Menu Item
+4.Delete Menu Item
+Enter Your Choice: 2
+
+Item Id	Item Name		Price
+----------------------------------------------------------
+
+1	Coffee		70	
+2	Pizza		200	
+-------------------------------------------------------
+*****Manage Food Menu*****
+0.Exit
+1.Add Menu Item
+2.View Menu Item
+3.Edit Menu Item
+4.Delete Menu Item
+Enter Your Choice: 4
+
+Item Id	Item Name		Price
+----------------------------------------------------------
+
+1	Coffee		70	
+2	Pizza		200	
+-------------------------------------------------------
+Enter Item Id You Want To Delete: 2
+
+Item Id	Item Name		Price
+----------------------------------------------------------
+
+1	Coffee		70	
+-------------------------------------------------------
+*****Manage Food Menu*****
+0.Exit
+1.Add Menu Item
+2.View Menu Item
+3.Edit Menu Item
+4.Delete Menu Item
+Enter Your Choice: 2
+
+Item Id	Item Name		Price
+----------------------------------------------------------
+
+1	Coffee		70	
+-------------------------------------------------------
+*****Manage Food Menu*****
+0.Exit
+1.Add Menu Item
+2.View Menu Item
+3.Edit Menu Item
+4.Delete Menu Item
+Enter Your Choice: 0
+
+*****Manager Menu******
+0.Exit
+1.Manage Food Menu
+2.Manage Room Charges
+3.Manage Billing
+4.Review All Order Status
+Enter Your Choice: 0
+
+**********MAIN MENU*********
+0.Exit
+1.Manager
+2.Caption
+3.Chef
+4.Receptionist
+Enter YOur Choice: 0

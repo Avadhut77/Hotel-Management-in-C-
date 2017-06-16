@@ -1,0 +1,96 @@
+
+**********MAIN MENU*********
+0.Exit
+1.Manager
+2.Caption
+3.Chef
+4.Receptionist
+Enter YOur Choice: 2
+
+*****Captain Menu*****
+0.Exit
+1.Take Order
+2.Serve Order
+Enter Your Choice: 1
+
+Table No	Customer Name		Cell  No		Address
+-------------------------------------------------
+
+1	Avadhut	9657265577	Pune
+2	xyz	1234567890	qwerty
+Enter Table No: 1
+
+Item Id	Item Name		Price
+----------------------------------------------------------
+
+1	Coffee		70	
+2	Pizza		200	
+-------------------------------------------------------
+Enter Item Id: 1
+
+Enter Quantity: 2
+
+Want To Give Another Order(If Yes Enter Any Non-Zero Value): 1
+
+Item Id	Item Name		Price
+----------------------------------------------------------
+
+1	Coffee		70	
+2	Pizza		200	
+-------------------------------------------------------
+Enter Item Id: 2
+
+Enter Quantity: 2
+
+Want To Give Another Order(If Yes Enter Any Non-Zero Value): 0
+
+*****Captain Menu*****
+0.Exit
+1.Take Order
+2.Serve Order
+Enter Your Choice: 1
+
+Table No	Customer Name		Cell  No		Address
+-------------------------------------------------
+
+1	Avadhut	9657265577	Pune
+2	xyz	1234567890	qwerty
+Enter Table No: 2
+
+Item Id	Item Name		Price
+----------------------------------------------------------
+
+1	Coffee		70	
+2	Pizza		200	
+-------------------------------------------------------
+Enter Item Id: 1
+
+Enter Quantity: 4
+
+Want To Give Another Order(If Yes Enter Any Non-Zero Value): 1
+
+Item Id	Item Name		Price
+----------------------------------------------------------
+
+1	Coffee		70	
+2	Pizza		200	
+-------------------------------------------------------
+Enter Item Id: 2
+
+Enter Quantity: 4
+
+Want To Give Another Order(If Yes Enter Any Non-Zero Value): 0
+
+*****Captain Menu*****
+0.Exit
+1.Take Order
+2.Serve Order
+Enter Your Choice: 0
+
+**********MAIN MENU*********
+0.Exit
+1.Manager
+2.Caption
+3.Chef
+4.Receptionist
+Enter YOur Choice: 0

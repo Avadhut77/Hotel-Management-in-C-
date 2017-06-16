@@ -1,0 +1,51 @@
+
+**********MAIN MENU*********
+0.Exit
+1.Manager
+2.Caption
+3.Chef
+4.Receptionist
+Enter YOur Choice: 3
+
+*****Chef Menu*****
+0.Exit
+1.See All Pending Orders
+2.Prepare Order
+Enter Your Choice: 2
+
+---------------------------------------------------
+Order Id: 1	Name: Avadhut	Status: InProcess..!
+================================================================
+Item Id		Name		Price		Quantity
+1		Coffee		70		2
+2		Pizza		200		2
+
+---------------------------------------------------
+Order Id: 2	Name: xyz	Status: InProcess..!
+================================================================
+Item Id		Name		Price		Quantity
+1		Coffee		70		4
+2		Pizza		200		4
+
+Enter Table No: 1
+
+---------------------------------------------------
+Order Id: 1	Name: Avadhut	Status: Ready..!
+================================================================
+Item Id		Name		Price		Quantity
+1		Coffee		70		2
+2		Pizza		200		2
+
+*****Chef Menu*****
+0.Exit
+1.See All Pending Orders
+2.Prepare Order
+Enter Your Choice: 0
+
+**********MAIN MENU*********
+0.Exit
+1.Manager
+2.Caption
+3.Chef
+4.Receptionist
+Enter YOur Choice: 0

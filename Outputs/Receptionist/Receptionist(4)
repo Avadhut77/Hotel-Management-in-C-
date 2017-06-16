@@ -1,0 +1,44 @@
+
+**********MAIN MENU*********
+0.Exit
+1.Manager
+2.Caption
+3.Chef
+4.Receptionist
+Enter YOur Choice: 4
+
+*****Receptionist Menu*****
+0.Exit
+1.Register Customer
+2.Restaurant Billing
+3.Room Booking(Check-In)
+4.Room Biing(Check-Out)
+Enter Your Choice: 4
+
+Room Billing(Check-Out)
+==============================================================================
+Room No: 1	Room Suit: Ashoka	Room Charge: 2000	Room status: BOOKED
+Customer Name: Avadhut	Check-In Time: 12/6/2017
+==============================================================================
+Enter Room No For Chceck Out: 1
+
+1		Ashoka		2000		BOOKED
+=======================================================================================
+Room No: 1	Room Suit: Ashoka	Room Charge: 2000	Room status: BOOKED
+Customer Name: Avadhut	Check-In Time: 12/6/2017	Total Bill: 6000
+=======================================================================================
+*****Receptionist Menu*****
+0.Exit
+1.Register Customer
+2.Restaurant Billing
+3.Room Booking(Check-In)
+4.Room Biing(Check-Out)
+Enter Your Choice: 0
+
+**********MAIN MENU*********
+0.Exit
+1.Manager
+2.Caption
+3.Chef
+4.Receptionist
+Enter YOur Choice: 0

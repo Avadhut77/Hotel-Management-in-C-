@@ -1,0 +1,48 @@
+
+**********MAIN MENU*********
+0.Exit
+1.Manager
+2.Caption
+3.Chef
+4.Receptionist
+Enter YOur Choice: 1
+
+*****Manager Menu******
+0.Exit
+1.Manage Food Menu
+2.Manage Room Charges
+3.Manage Billing
+4.Review All Order Status
+Enter Your Choice: 4
+
+--**You Are In Review All Order Status Section
+---------------------------------------------------
+Order Id: 1	Name: Avadhut	Status: Served..!
+================================================================
+Item Id		Name		Price		Quantity
+1		Coffee		70		2
+2		Pizza		200		2
+================================================================
+Total: 540
+---------------------------------------------------
+Order Id: 2	Name: xyz	Status: InProcess..!
+================================================================
+Item Id		Name		Price		Quantity
+1		Coffee		70		4
+2		Pizza		200		4
+
+*****Manager Menu******
+0.Exit
+1.Manage Food Menu
+2.Manage Room Charges
+3.Manage Billing
+4.Review All Order Status
+Enter Your Choice: 0
+
+**********MAIN MENU*********
+0.Exit
+1.Manager
+2.Caption
+3.Chef
+4.Receptionist
+Enter YOur Choice: 0
